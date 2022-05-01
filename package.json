@@ -4,8 +4,10 @@
   "description": "readme project",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "node index.js"
   },
+  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bspratford7719/potential-enigma.git"
